@@ -44,7 +44,9 @@ The dataset used in this analysis includes the following attributes:
 
   ## 🚀 Pipeline Overview
 
-  1. **Data Loading & Exploration**  
+  1. **Data Loading & Exploration**
+     ![image](https://github.com/user-attachments/assets/65fbf120-0088-4d1b-a0e7-8648ba1cbc9a)
+
 2. **Data Cleaning & Imputation**  
 3. **Feature Scaling**  
 4. **Model Training**  
