@@ -44,18 +44,38 @@ The dataset used in this analysis includes the following attributes:
 
   ## 🚀 Pipeline Overview
 
-  1. **Data Loading & Exploration**
+1. **Data Loading & Exploration**
      ![image](https://github.com/user-attachments/assets/65fbf120-0088-4d1b-a0e7-8648ba1cbc9a)
 
-2. **Data Cleaning & Imputation**  
-3. **Feature Scaling**  
-4. **Model Training**  
+2. **Data Cleaning & Imputation**
+     ![co-relation co-efficient](https://github.com/user-attachments/assets/8182823c-399d-4b89-a02f-3408db0011d3)
+
+4. **Feature Scaling**
+     ![image](https://github.com/user-attachments/assets/5a2ab821-ce64-4c03-8a44-9773cb31bef1)
+     ![image](https://github.com/user-attachments/assets/b1655d95-3bfd-4a80-be1b-ddaf29c913d7)
+     ![image](https://github.com/user-attachments/assets/4b45f8c2-7fde-43ea-a4d5-03eebf150596)
+     ![image](https://github.com/user-attachments/assets/f97ccfa5-1dd4-4069-937b-8adf03cc8674)
+     ![image](https://github.com/user-attachments/assets/8f29058e-785e-41c2-a6cf-0287d7be2cc3)
+     ![image](https://github.com/user-attachments/assets/171df2d0-25f5-477d-b3f6-74c586f73d2c)
+     ![image](https://github.com/user-attachments/assets/97e63d6d-7d9e-42b0-8751-ed9a335cc77a)
+     ![image](https://github.com/user-attachments/assets/ea1e13fa-be90-42d9-b758-a1d414d2543e)
+
+
+    ![image](https://github.com/user-attachments/assets/cffa3ffb-2fd6-4859-9788-f1d8db49691c)
+
+    ![image](https://github.com/user-attachments/assets/40e24027-1517-4681-aa42-3f84c566d48a)
+
+
+
+
+
+6. **Model Training**  
    - **Logistic Regression**  
-5. **Model Evaluation**  
+7. **Model Evaluation**  
    - Accuracy score  
    - Confusion matrix  
    - Classification report  
-6. **Hyperparameter Tuning** (e.g., regularization strength)
+8. **Hyperparameter Tuning** (e.g., regularization strength)
 
 
 ## 🛠 How to Run
