@@ -63,9 +63,10 @@ The dataset used in this analysis includes the following attributes:
 
     ![image](https://github.com/user-attachments/assets/cffa3ffb-2fd6-4859-9788-f1d8db49691c)
 
-    ![image](https://github.com/user-attachments/assets/40e24027-1517-4681-aa42-3f84c566d48a)
+   
 
 4. **Feature Scaling**
+     ![image](https://github.com/user-attachments/assets/40e24027-1517-4681-aa42-3f84c566d48a)
     ![image](https://github.com/user-attachments/assets/bbec9fad-73ee-4619-8b57-126099f5f922)
     ![image](https://github.com/user-attachments/assets/07fe96fb-634f-47d3-9ea6-5fb185c529ff)
     ![boxPlot_After_Normalization](https://github.com/user-attachments/assets/c77d6074-e230-4bea-9a02-51890b315278)
