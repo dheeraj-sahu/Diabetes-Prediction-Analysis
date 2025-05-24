@@ -46,12 +46,12 @@ The dataset used in this analysis includes the following attributes:
 
 1. **Data Loading & Exploration**
      ![image](https://github.com/user-attachments/assets/65fbf120-0088-4d1b-a0e7-8648ba1cbc9a)
+     ![boxPlot (1)](https://github.com/user-attachments/assets/1d208cbb-df8b-4dfe-a200-aa8f9a3f49bb)
 
-2. **Data Cleaning & Imputation**
+
+3. **Data Cleaning & Imputation**
      ![co-relation co-efficient](https://github.com/user-attachments/assets/8182823c-399d-4b89-a02f-3408db0011d3)
-
-4. **Feature Scaling**
-     ![image](https://github.com/user-attachments/assets/5a2ab821-ce64-4c03-8a44-9773cb31bef1)
+      ![image](https://github.com/user-attachments/assets/5a2ab821-ce64-4c03-8a44-9773cb31bef1)
      ![image](https://github.com/user-attachments/assets/b1655d95-3bfd-4a80-be1b-ddaf29c913d7)
      ![image](https://github.com/user-attachments/assets/4b45f8c2-7fde-43ea-a4d5-03eebf150596)
      ![image](https://github.com/user-attachments/assets/f97ccfa5-1dd4-4069-937b-8adf03cc8674)
@@ -65,17 +65,27 @@ The dataset used in this analysis includes the following attributes:
 
     ![image](https://github.com/user-attachments/assets/40e24027-1517-4681-aa42-3f84c566d48a)
 
-
-
+4. **Feature Scaling**
+    ![image](https://github.com/user-attachments/assets/bbec9fad-73ee-4619-8b57-126099f5f922)
+    ![image](https://github.com/user-attachments/assets/07fe96fb-634f-47d3-9ea6-5fb185c529ff)
+    ![boxPlot_After_Normalization](https://github.com/user-attachments/assets/c77d6074-e230-4bea-9a02-51890b315278)
 
 
 6. **Model Training**  
-   - **Logistic Regression**  
-7. **Model Evaluation**  
-   - Accuracy score  
-   - Confusion matrix  
-   - Classification report  
-8. **Hyperparameter Tuning** (e.g., regularization strength)
+   - **Logistic Regression**
+         ![image](https://github.com/user-attachments/assets/fad4ce87-f316-429f-b199-22bd7171b6c0)
+
+7. **Model Evaluation**
+         ![image](https://github.com/user-attachments/assets/edb6a56c-6f7e-49fb-82d4-a97b76bcfa38)
+         ![image](https://github.com/user-attachments/assets/0483320f-e14d-40f0-bb32-3ec495e0605c)
+   - Accuracy score
+        ![image](https://github.com/user-attachments/assets/c6de56b7-8e0a-476b-a5c3-af77d622cdab)
+     
+   - Confusion matrix
+         ![image](https://github.com/user-attachments/assets/c46a05c8-0cc4-4a45-88e4-66df249c70c8)
+
+   - Classification report
+         ![image](https://github.com/user-attachments/assets/7cbdca96-3319-48ed-a3d5-ea9662785a62)
 
 
 ## 🛠 How to Run
