@@ -1,4 +1,5 @@
 # Diabetes-Prediction-Analysis
+**Logistic Regression**
 This repository contains a comprehensive analysis and modeling pipeline for predicting the onset of diabetes using clinical and diagnostic data. The primary objective is to explore the dataset, perform preprocessing and feature engineering, train multiple machine learning models, and evaluate their performance to identify the best approach for accurate prediction.
 
 Table of Contents
